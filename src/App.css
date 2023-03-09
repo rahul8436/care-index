@@ -27,7 +27,12 @@
 .App-link {
   color: #61dafb;
 }
-
+.div {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

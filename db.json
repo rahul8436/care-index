@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "drop_dead_date": "2023-03-15",
+      "case_status": "Closed",
+      "case_type": "Appeal",
+      "workflow_type": "Denial",
+      "contact_first_name": "Jane",
+      "contact_last_name": "Smith",
+      "tin": "987654321",
+      "npi": "123456789",
+      "provider_weight": 0.5
+    },
+    {
+      "id": 2,
+      "drop_dead_date": "2023-03-15",
+      "case_status": "Closed",
+      "case_type": "Appeal",
+      "workflow_type": "Denial",
+      "contact_first_name": "Jane",
+      "contact_last_name": "Smith",
+      "tin": "987654321",
+      "npi": "123456789",
+      "provider_weight": 0.5
+    },
+    {
+      "id": 3,
+      "drop_dead_date": "2023-03-15",
+      "case_status": "Closed",
+      "case_type": "Appeal",
+      "workflow_type": "Denial",
+      "contact_first_name": "Jane",
+      "contact_last_name": "Smith",
+      "tin": "987654321",
+      "npi": "123456789",
+      "provider_weight": 0.5
+    },
+    {
+      "id": 4,
+      "drop_dead_date": "2023-03-15",
+      "case_status": "Closed",
+      "case_type": "Appeal",
+      "workflow_type": "Denial",
+      "contact_first_name": "Jane",
+      "contact_last_name": "Smith",
+      "tin": "987654321",
+      "npi": "123456789",
+      "provider_weight": 0.5
+    },
+    {
+      "id": 5,
+      "drop_dead_date": "2023-03-15",
+      "case_status": "Closed",
+      "case_type": "Appeal",
+      "workflow_type": "Denial",
+      "contact_first_name": "Jane",
+      "contact_last_name": "Smith",
+      "tin": "987654321",
+      "npi": "123456789",
+      "provider_weight": 0.5
+    }
+  ]
+}

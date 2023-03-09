@@ -1,0 +1,39 @@
+[
+    {
+      "Case ID": "001",
+      "Drop Dead Date": "2023-04-01",
+      "Case Status": "Open",
+      "Case Type": "Insurance Claim",
+      "Workflow Type": "Approval",
+      "Contact First Name": "John",
+      "Contact Last Name": "Doe",
+      "TIN": "123456789",
+      "NPI": "987654321",
+      "PROVIDER WEIGHT": 0.8
+    },
+    {
+      "Case ID": "002",
+      "Drop Dead Date": "2023-03-15",
+      "Case Status": "Closed",
+      "Case Type": "Appeal",
+      "Workflow Type": "Denial",
+      "Contact First Name": "Jane",
+      "Contact Last Name": "Smith",
+      "TIN": "987654321",
+      "NPI": "123456789",
+      "PROVIDER WEIGHT": 0.5
+    },
+    {
+      "Case ID": "003",
+      "Drop Dead Date": "2023-05-01",
+      "Case Status": "Open",
+      "Case Type": "Prior Authorization",
+      "Workflow Type": "Review",
+      "Contact First Name": "Sarah",
+      "Contact Last Name": "Johnson",
+      "TIN": "456789123",
+      "NPI": "789123456",
+      "PROVIDER WEIGHT": 0.3
+    }
+  ]
+  
